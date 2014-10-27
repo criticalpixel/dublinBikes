@@ -1,0 +1,10 @@
+/* Dublin Bikes App Style Sheet*/
+
+/* LOADER */
+
+.loading {
+	text-align: center;
+	display: none;
+	padding:10px;
+	color: #161616;
+}
