@@ -8,3 +8,7 @@
 	padding:10px;
 	color: #161616;
 }
+
+.extendedResult, .moreResults{
+	display: none;
+}
